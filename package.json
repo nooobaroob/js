@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/your-repo.git"  // Replace with your actual repo URL
+    "url": "https://github.com/nooobaroob/js.git"  // Replace with your actual repo URL
   },
   "keywords": [
     "youtube",
@@ -29,6 +29,6 @@
     "express",
     "node"
   ],
-  "author": "Your Name",
+  "author": "Your Na"
   "license": "ISC"
 }
